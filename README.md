@@ -620,5 +620,3 @@ curl http://localhost:8080/q/openapi
   #### If you would like to view the origonal source as I got it from Gamesense: https://github.com/h4xrOx/gamesense.cloud/tree/main/demo/gs
 
 
-
-
